@@ -44,7 +44,8 @@ fullscreen = True
 hide_mouse = True
 
 # Clock displays UTC or local time
-clock_utc = False
+# The large clock on the desktop will display local time. The last updated time will indicate UTC
+#clock_utc = False
 
 # Clock strftime format string
 clock_format = r"%H:%M"  # 24-hour
